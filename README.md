@@ -2,7 +2,6 @@
 
 ¿Qué hace este código?
 Este código es un ejemplo de cómo utilizando Web Scraping o Web Crawling se pueden obtener grandes volúmenes datos de fuentes públicas de internet de forma rápida.
-Se han creado entities, GIS Layers y Viewers y Dashboard bajo el usuario "atorrese" en Onesait Platform, para ilustrar el funcionamiento de este código.
 
 ¿Qué información se obtiene?
 Se pueden obtener datos de inmuebles en venta/alquiler, inmuebles en alquiler vacacional, vehículos de segunda mano en venta, productos usados en venta, opiniones de clientes...
@@ -36,3 +35,4 @@ Retención de clientes: Contando con los teléfonos de contacto de anuncios de p
 - una empresa de transporte (ferroviario o aéreo, por ejemplo) podría ofrecerle promociones de viajes a esa zona donde se encuentre el otro inmueble
 
 
+<img width="868" alt="dashboard" src="https://user-images.githubusercontent.com/18197177/134139469-405099aa-7c8c-4c60-919e-2bb6584ab348.PNG">
