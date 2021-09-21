@@ -36,3 +36,7 @@ Retención de clientes: Contando con los teléfonos de contacto de anuncios de p
 
 
 <img width="868" alt="dashboard" src="https://user-images.githubusercontent.com/18197177/134139469-405099aa-7c8c-4c60-919e-2bb6584ab348.PNG">
+
+
+Además, se incluye un prototipo de valoración de inmuebles basado en IA, que puede servir para el perfilado de anuncios/anunciantes, y así poder obtener 
+más información sobre los clientes o potenciales clientes de una empresa.
