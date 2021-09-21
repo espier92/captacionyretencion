@@ -27,8 +27,7 @@ a sus clientes, pero lo más importante, servicios más personalizados, ya que l
 
 Ejemplo de caso de uso: 
 
-Retención de clientes: Contando con el teléfono de contacto, una empresa podría ver si alguno de sus clientes está, por ejemplo, alquilando por semanas una segunda
-vivienda que desconocía que tuviera. En ese caso, por ejemplo: 
+Retención de clientes: Contando con los teléfonos de contacto de anuncios de portales inmobiliarios, una empresa podría ver si alguno de sus clientes está, por ejemplo, alquilando una segunda vivienda que desconocía que tuviera. En ese caso, por ejemplo: 
       - su aseguradora podría ofrecerle un seguro para esa vivienda, contando además con fotografías de la misma, que ayudaría a dar un precio más ajustado a la realidad;
       - su empresa de telefonía podría ofrecerle ampliar sus servicios con una tarifa de internet y TV para ese otro inmueble;
       - su empresa de distribución de energía podría ofrecerle un nuevo contrato de electricidad y gas para esa vivienda; 
