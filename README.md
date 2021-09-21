@@ -28,11 +28,11 @@ a sus clientes, pero lo más importante, servicios más personalizados, ya que l
 Ejemplo de caso de uso: 
 
 Retención de clientes: Contando con los teléfonos de contacto de anuncios de portales inmobiliarios, una empresa podría ver si alguno de sus clientes está, por ejemplo, alquilando una segunda vivienda que desconocía que tuviera. En ese caso, por ejemplo: 
-      - su aseguradora podría ofrecerle un seguro para esa vivienda, contando además con fotografías de la misma, que ayudaría a dar un precio más ajustado a la realidad;
-      - su empresa de telefonía podría ofrecerle ampliar sus servicios con una tarifa de internet y TV para ese otro inmueble;
-      - su empresa de distribución de energía podría ofrecerle un nuevo contrato de electricidad y gas para esa vivienda; 
-      - su empresa de seguridad podría ofrecerle un servicio de alarma y vigilancia; 
-      - su entidad financiera podría ofrecerle préstamos para reformas o productos financieros de inversión;
-      - una empresa de transporte (ferroviario o aéreo, por ejemplo) podría ofrecerle promociones de viajes a esa zona donde se encuentre el otro inmueble
+- su aseguradora podría ofrecerle un seguro para esa vivienda, contando además con fotografías de la misma, que ayudaría a dar un precio más ajustado a la realidad;
+- su empresa de telefonía podría ofrecerle ampliar sus servicios con una tarifa de internet y TV para ese otro inmueble;
+- su empresa de distribución de energía podría ofrecerle un nuevo contrato de electricidad y gas para esa vivienda; 
+- su empresa de seguridad podría ofrecerle un servicio de alarma y vigilancia; 
+- su entidad financiera podría ofrecerle préstamos para reformas o productos financieros de inversión;
+- una empresa de transporte (ferroviario o aéreo, por ejemplo) podría ofrecerle promociones de viajes a esa zona donde se encuentre el otro inmueble
 
 
